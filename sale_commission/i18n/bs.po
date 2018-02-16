@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: commission (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-07 01:16+0000\n"
-"PO-Revision-Date: 2017-01-13 09:23+0000\n"
+"POT-Creation-Date: 2017-08-12 01:21+0000\n"
+"PO-Revision-Date: 2017-08-21 07:24+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Bosnian (http://www.transifex.com/oca/OCA-commission-8-0/language/bs/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr ""
 #. module: sale_commission
 #: field:sale.commission,active:0
 msgid "Active"
-msgstr ""
+msgstr "Aktivno"
 
 #. module: sale_commission
 #: field:account.invoice.line.agent,agent:0
@@ -187,7 +187,7 @@ msgstr ""
 #: field:sale.commission.settlement,company_id:0
 #: field:sale.commission.settlement.line,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Kompanija"
 
 #. module: sale_commission
 #: model:ir.actions.act_window,name:sale_commission.action_commission_make_invoices
@@ -207,7 +207,7 @@ msgid "Created Invoices"
 msgstr ""
 
 #. module: sale_commission
-#: code:addons/sale_commission/wizard/wizard_settle.py:108
+#: code:addons/sale_commission/wizard/wizard_settle.py:110
 #, python-format
 msgid "Created Settlements"
 msgstr ""
@@ -386,7 +386,7 @@ msgstr ""
 #. module: sale_commission
 #: field:sale.commission.make.invoice,journal:0
 msgid "Journal"
-msgstr ""
+msgstr "Dnevnik"
 
 #. module: sale_commission
 #: help:account.invoice.line.agent,invoice_date:0
